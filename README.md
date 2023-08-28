@@ -2,7 +2,7 @@
 
 
 
-Step 1: Data Preparation
+# Step 1: Data Preparation
 Start by gathering a dataset of text that you'll use to train your model. You can use books, articles, or any other text source. Preprocess the text by tokenizing it into words or characters, and create a mapping from words (or characters) to numerical values.
 
 # Step 2: Model Architecture
